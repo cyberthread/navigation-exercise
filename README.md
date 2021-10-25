@@ -6,9 +6,9 @@ Your tasks include:
 - [ ] Provide assistive technology users the option to skip right to the main content of the page (on each page)
 - [ ] Notify audience members of what page they are on in 3 ways
     - [ ] Title each document so that the audience knows what page of what site they are on
-    - [ ] Use aria-current to indicate to assitive technology users what page they arer on from within the navigation
+    - [ ] Use aria-current to indicate to assitive technology users what page they are on from within the navigation
     - [ ] Use clear h1 tags on each page to indicate where the audience member is in the content
-- [ ] Bonus: Create a back to top hyperlink at the bottom of each page that jumps to the top of the main content area
+- [ ] Create a back to top hyperlink at the bottom of each page that jumps to the top of the main content area
 
 Submit the following on Blackboard:
 - [ ] URL to live working website (all links work correctly from each page)
