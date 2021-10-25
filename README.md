@@ -1,4 +1,4 @@
-# Navigation Exercise
+# HTML Navigation
 In this exercise you will practice implementing key navigational elements to help audience members know where they are and what other options are available to them. This exercise has 3 HTML pages. Use Rebecca's [Navigation Demo Code](https://github.com/cyberthread/basic_HTML_navigation) for reference. 
 
 Your tasks include:
