@@ -9,7 +9,3 @@ Your tasks include:
     - [ ] Use aria-current to indicate to assitive technology users what page they are on from within the navigation
     - [ ] Use clear h1 tags on each page to indicate where the audience member is in the content
 - [ ] Create a back to top hyperlink at the bottom of each page that jumps to the top of the main content area
-
-Submit the following on Blackboard:
-- [ ] URL to live working website (all links work correctly from each page)
-- [ ] Screenshot of validation service indicating valid code for each page (3 screen shots in total)
